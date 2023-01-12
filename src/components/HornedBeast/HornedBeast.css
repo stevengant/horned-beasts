@@ -25,6 +25,11 @@ article p:last-of-type:hover {
   margin: .2rem .1vw;
 } */
 
-Card {
-  padding-bottom: 10px;
+.card {
+  margin-bottom: 2vw;
+}
+
+.card>div {
+  height: 2vw;
+  text-align: center;
 }
